@@ -1,0 +1,2 @@
+# shopifySitemaps
+scrape for sitemaps
